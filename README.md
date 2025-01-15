@@ -45,7 +45,7 @@ Avant de commencer, assurez-vous que les éléments suivants sont installés sur
 
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone https://github.com/Azzammoo10/SecurePassManager-MVC.git
+   git clone https://github.com/riyad4589/SecurePassManager-MVC.git
    cd SecurePassManager-MVC
    ```
 
@@ -53,8 +53,8 @@ Avant de commencer, assurez-vous que les éléments suivants sont installés sur
    ```json
    {
      "ConnectionStrings": {
-       "DefaultConnection": "VotreChaîneDeConnexionSQLServer"
-     }
+    "DefaultConnection": "Server=VotreServeurSQL;Database=VotreBaseDeDonnée;Trusted_Connection=True;TrustServerCertificate=True;"
+   }
    }
    ```
 
@@ -98,7 +98,7 @@ Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour
 
 ## Auteur
 
-Développé par [Riyad4589](https://github.com/riyad4589). N'hésitez pas à me contacter pour toute question ou suggestion à [azzam.moo10@gmail.com](mailto:riyadmaj10@gmail.com).
+Développé par [Riyad4589](https://github.com/riyad4589). N'hésitez pas à me contacter pour toute question ou suggestion à [riyadmaj10@gmail.com](mailto:riyadmaj10@gmail.com).
 ```
 
 ### Étapes pour le Push sur GitHub
