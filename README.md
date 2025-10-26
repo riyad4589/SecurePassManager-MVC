@@ -433,6 +433,14 @@ Contributions are welcome! To contribute:
 
 ## 👤 Author
 
+
+**IBRAHIMI Aya**
+
+<!-- - GitHub: [@riyad4589](https://github.com/riyad4589) -->
+- Email: [ayaibrahimi2609@gmail.com](mailto:ayaibrahimi2609@gmail.com)
+<!-- - LinkedIn: []() -->
+
+
 **MAJGHIROU Mohamed Riyad**
 
 - GitHub: [@riyad4589](https://github.com/riyad4589)
@@ -445,13 +453,6 @@ Contributions are welcome! To contribute:
 - GitHub: [@Azzammoo10](https://github.com/Azzammoo10)
 - Email: [azzam.moo10@gmail.com](mailto:azzam.moo10@gmail.com)
 - LinkedIn: [Mohamed AZZAM](https://www.linkedin.com/in/mohamed-azzam-93115823a/)
-
-**IBRAHIMI Aya**
-
-<!-- - GitHub: [@riyad4589](https://github.com/riyad4589) -->
-- Email: [ayaibrahimi2609@gmail.com](mailto:ayaibrahimi2609@gmail.com)
-<!-- - LinkedIn: []() -->
-
 
 ---
 
