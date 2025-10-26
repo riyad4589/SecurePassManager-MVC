@@ -430,11 +430,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👤 Author
 
@@ -442,22 +437,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@riyad4589](https://github.com/riyad4589)
 - Email: [riyadmaj10@gmail.com](mailto:riyadmaj10@gmail.com)
+- LinkedIn: [Mohamed Riyad MAJGHIROU](https://www.linkedin.com/in/mohamed-riyad-majghirou-5b62aa388/)
+
+
+**Azzammoo10**
+
+- GitHub: [@Azzammoo10](https://github.com/Azzammoo10)
+- Email: [azzam.moo10@gmail.com](mailto:azzam.moo10@gmail.com)
+- LinkedIn: [Mohamed AZZAM](https://www.linkedin.com/in/mohamed-azzam-93115823a/)
+
+**IBRAHIMI Aya**
+
+<!-- - GitHub: [@riyad4589](https://github.com/riyad4589) -->
+- Email: [ayaibrahimi2609@gmail.com](mailto:ayaibrahimi2609@gmail.com)
+<!-- - LinkedIn: []() -->
+
 
 ---
 
-## 🙏 Acknowledgments
-
-- [Have I Been Pwned](https://haveibeenpwned.com/) for breach detection API
-- [Clearbit](https://clearbit.com/) for logo API
-- [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet) team
-- All contributors and users of this project
-
----
 
 <div align="center">
 
-**Made with ❤️ using ASP.NET Core 8**
-
-⭐ Star this repo if you find it helpful!
+**⭐ Star this repo if you find it helpful!**
 
 </div>
