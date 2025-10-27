@@ -351,27 +351,24 @@ SecurePass/
 
 - Login page
 
-  ![Login](docs/screenshots/login.png)
+  ![Login](SecurePass/docs/login.png)
 
 - Sign Up page
 
-  ![Login](docs/screenshots/login.png)
+  ![Sign Up](SecurePass/docs/signup.png)
 
 - Dashboard
 
-  ![Dashboard](docs/screenshots/dashboard.png)
+  ![Dashboard](SecurePass/docs/dashboard.png)
 
-- Profil details
+- Profile details
 
-  ![Details](docs/screenshots/profile.png)
+  ![Profile](SecurePass/docs/profile.png)
 
 - DataBase details
 
-  ![Details](docs/screenshots/DB.png)
+  ![DataBase](SecurePass/docs/DB.png)
 
-Optionally use HTML for sizing:
-
-<img src="docs/screenshots/login.png" alt="Login" width="700" />
 
 ---
 
