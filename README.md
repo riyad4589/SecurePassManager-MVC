@@ -26,6 +26,7 @@
 - [Usage Guide](#-usage-guide)
 - [Security Features](#-security-features)
 - [Project Structure](#-project-structure)
+- [Screenshots](#-screenshots)
 - [Development](#-development)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -342,6 +343,35 @@ SecurePass/
 │   └── lib/
 └── Migrations/               # EF Core Migrations
 ```
+
+---
+
+## 🖼️ Screenshots
+
+
+- Login page
+
+  ![Login](docs/screenshots/login.png)
+
+- Sign Up page
+
+  ![Login](docs/screenshots/login.png)
+
+- Dashboard
+
+  ![Dashboard](docs/screenshots/dashboard.png)
+
+- Profil details
+
+  ![Details](docs/screenshots/profile.png)
+
+- DataBase details
+
+  ![Details](docs/screenshots/DB.png)
+
+Optionally use HTML for sizing:
+
+<img src="docs/screenshots/login.png" alt="Login" width="700" />
 
 ---
 
